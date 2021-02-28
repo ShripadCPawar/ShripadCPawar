@@ -49,4 +49,4 @@
 <br />
 <br />
 <b><b>
- <p align="center"> <img src="Pikachu.png" alt="pic" width="500" height="700"/> </p>
+ <p align="center"> <img src="Pikachu.png" alt="pic" width="400" height="500"/> </p>
