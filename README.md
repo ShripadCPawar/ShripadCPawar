@@ -6,8 +6,8 @@
 
 ## Short Summary:
 
-<br>I'm an Undergraduate Student currently undertaking a Bachelors in Computer Engineering from Adsuls Technical Campus Ahmednagar at 
-Savitribai Phule Pune University.<br/> <br/> <b>SE CGPA - 7.82 <br/>
+<h2><b>I'm an Undergraduate Student currently undertaking a Bachelors in Computer Engineering from Adsuls Technical Campus Ahmednagar at 
+Savitribai Phule Pune University.</h2> <br/> <b>SE CGPA - 7.82 <br/>
 <br/> I'm passionate about <b>Andriod App Development, Machine Learning, And Data Science<b/>.
 <br/>
 - 🌱 I’m currently learning and working on <b>Andriod App Develpoment 📲</b>.
