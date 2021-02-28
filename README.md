@@ -49,5 +49,5 @@
 </a>
 <br />
 <br />
-##
- <p align="center"> <img src="Pikachu.png" alt="pic" width="400" height="300"/> </p>
+
+## <p align="center"> <img src="Pikachu.png" alt="pic" width="400" height="300"/> </p>
