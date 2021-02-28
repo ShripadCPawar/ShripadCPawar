@@ -22,15 +22,16 @@ Savitribai Phule Pune University.<br/> <br/> <b>SE CGPA - 7.82 <br/>
 
 ### Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="90" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="100" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="andriod" width="80" height="80">
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="git" width="120" height="100"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="100" height="70"/>
+<br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="100" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" alt="atom" width="90" height="70"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="70" height="70"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="90" height="90"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="70"/> 
- 
+ <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="57" height="70"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="git" width="70" height="70"/>
