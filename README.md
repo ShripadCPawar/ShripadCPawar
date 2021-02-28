@@ -10,7 +10,7 @@
 Savitribai Phule Pune University.</h2> <br/> <b>SE CGPA - 7.82 <br/>
 <br/> I'm passionate about <b>Andriod App Development, Machine Learning, And Data Science<b/>.
 <br/>
-- 🌱 I’m currently learning and working on <b>Andriod App Develpoment 📲</b>.
+- 🌱 I’m currently learning and working on <b>Andriod App Develpoment 📲.
 - 🥅 2021 Goals : Contribute more to Open Source projects.👽💻
 - ⚡ Fun fact : I love to play guitar But I Don't Know How 😜😄
  
