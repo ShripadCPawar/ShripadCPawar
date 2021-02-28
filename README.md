@@ -1,3 +1,8 @@
+body {
+ background-image: url("India.gif");
+
+
+
 <p align="center"> <img src="hello.gif" alt="hello" /> </p>
 <h1 align="center">Hola 👋, I'm Shripad Pawar ⭐</h1>
 
@@ -48,4 +53,4 @@
 </a>
 <br />
 <br />
-<p align="center"> <img src="India.gif" alt="india"  width="1200" height="200" /> </p>
+}
