@@ -32,10 +32,10 @@ Savitribai Phule Pune University.<br/> <br/> <b>SE CGPA - 7.82 <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="90" height="90"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="70"/> 
  <br/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="57" height="70"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="git" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" alt="git" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="90" height="70"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="git" width="80" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="git" width="90" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" alt="git" width="90" height="70"/>
 
 
 
