@@ -1,18 +1,19 @@
 <p align="center"> <img src="hello.gif" alt="hello" /> </p>
-<h1 align="center">Hola 👋, I'm Shripad Pawar</h1>
+<h1 align="center">Hola 👋, I'm Shripad Pawar ⭐</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ShripadCPawar.ShripadCPawar)
 
 
 ## Short Summary:
 
-I'm an Undergraduate Student currently undertaking a Bachelors in Computer Engineering from Adsuls Technical Campus Ahmednagar at University Savitribai Phule Pune University. <br/> <b>SE CGPA - 7.82 <b/>
+I'm an Undergraduate Student currently undertaking a Bachelors in Computer Engineering from Adsuls Technical Campus Ahmednagar at 
+Savitribai Phule Pune University. <br/> <b>SE CGPA - 7.82 <br/>
 <br/> I'm passionate about <b>Andriod App Development, Machine Learning, And Data Science<b/>.
 <br/>
-- 🌱 I’m currently learning and working on <b>Andriod App Develpoment</b>.
-- 🥅 2021 Goals : Contribute more to Open Source projects.
-- ⚡ Fun fact : I love to play guitar But I Don't Know How .
-
+- 🌱 I’m currently learning and working on <b>Andriod App Develpoment 📲</b>.
+- 🥅 2021 Goals : Contribute more to Open Source projects.👽
+- ⚡ Fun fact : I love to play guitar But I Don't Know How .	👍
+ 
 
 ### Connect with me:
 
