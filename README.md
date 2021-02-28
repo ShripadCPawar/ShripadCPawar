@@ -41,12 +41,12 @@
 
 ### More About Me:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kish-git&layout=compact" alt="kish-git" />
-</a>
+
+
 <a href="https://github.com/ShripadCPawar/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShripadCPawar&show_icons=true&theme=radical&count_private=true" alt="Shripad_Pawar github stats" />
 </a>
 <br />
 <br />
-<b><b>
+
  <p align="center"> <img src="Pikachu.png" alt="pic" width="400" height="300"/> </p>
