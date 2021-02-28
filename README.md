@@ -43,7 +43,7 @@
 
 
 
-<a align="center" href="https://github.com/ShripadCPawar/github-readme-stats">
+<a href="https://github.com/ShripadCPawar/github-readme-stats">
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShripadCPawar&show_icons=true&theme=radical&count_private=true" alt="Shripad_Pawar github stats" />
 </a>
