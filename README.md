@@ -49,4 +49,4 @@
 <br />
 <br />
 <b><b>
- <p align="center"> <img src="India.gif" alt="india" height="1200" width="200"/> </p>
+ <p align="center"> <img src="India.gif" alt="india" height="300" width="1500"/> </p>
