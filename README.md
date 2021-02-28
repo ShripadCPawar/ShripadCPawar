@@ -15,12 +15,12 @@
 <br> - ⚡ Fun fact : I love to play guitar But I Don't Know How 😜😄</br>
  
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="shripad pawar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shripad-pawar-b95852192/) [<img align="left" alt="shripad pawar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shripad_chandrashekhar_pawar/) [<img align="left" alt="shripad pawar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShripadCPawar)
 <br>
 
-### Languages and Tools:
+## Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="90" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="100" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="andriod" width="80" height="80">
@@ -39,7 +39,7 @@
 
 
 
-### More About Me:
+## More About Me:
 
 
 
