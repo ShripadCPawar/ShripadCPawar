@@ -25,7 +25,6 @@ Savitribai Phule Pune University.<br/> <br/> <b>SE CGPA - 7.82 <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="100" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="andriod" width="80" height="80">
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="git" width="120" height="100"/>
-<br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="100" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" alt="atom" width="90" height="70"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="70" height="70"/>  
