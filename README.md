@@ -1,6 +1,7 @@
 <p align="center"> <img src="hello.gif" alt="hello" /> </p>
 <h1 align="center">Hola 👋, I'm Shripad Pawar ⭐</h1>
 <h3 align="center">A Passionate Java Developer from India 👦🏻💻</h3>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ShripadCPawar.ShripadCPawar)
 
 
@@ -40,7 +41,7 @@
 
 
 
-<a align="center" href="https://github.com/ShripadCPawar/github-readme-stats">
+<a href="https://github.com/ShripadCPawar/github-readme-stats">
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShripadCPawar&show_icons=true&theme=radical&count_private=true" alt="Shripad_Pawar github stats" />
 </a>
