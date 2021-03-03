@@ -55,7 +55,11 @@
 
 ## Connect with me:
 
-[<img align="left" alt="shripad pawar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shripad-pawar-b95852192/) [<img align="left" alt="shripad pawar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shripad_chandrashekhar_pawar/) [<img align="left" alt="shripad pawar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShripadCPawar)
-<br>
+<p align="left">
+<a href="https://www.linkedin.com/in/shripad-pawar-b95852192" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mtwn105" height="30" width="50" /></a>
+<a href="https://twitter.com/ShripadCPawar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mtwn105" height="30" width="50" /></a>
+<a href="https://www.instagram.com/shripad_chandrashekhar_pawar/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mtwn1051" height="30" width="50" /></a>
+</p>
+
 
  <p align="center"> <img src="Pikachu.png" alt="pic" width="400" height="300"/> </p>
