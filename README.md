@@ -1,6 +1,6 @@
 <p align="center"> <img src="hello.gif" alt="hello" /> </p>
 <h1 align="center">Hola 👋, I'm Shripad Pawar ⭐</h1>
-
+<h3 align="center">A Passionate Java Developer from India 👦🏻💻</h3>
 ![](https://visitor-badge.glitch.me/badge?page_id=ShripadCPawar.ShripadCPawar)
 
 
@@ -15,10 +15,7 @@
 <br> - ⚡ Fun fact : I love to play guitar But I Don't Know How 😜😄</br>
  
 
-## Connect with me:
 
-[<img align="left" alt="shripad pawar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shripad-pawar-b95852192/) [<img align="left" alt="shripad pawar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shripad_chandrashekhar_pawar/) [<img align="left" alt="shripad pawar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShripadCPawar)
-<br>
 
 ## Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="90" height="70"/>
@@ -43,11 +40,17 @@
 
 
 
-<a href="https://github.com/ShripadCPawar/github-readme-stats">
+<a align="center" href="https://github.com/ShripadCPawar/github-readme-stats">
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShripadCPawar&show_icons=true&theme=radical&count_private=true" alt="Shripad_Pawar github stats" />
 </a>
 <br />
 <br />
+
+
+## Connect with me:
+
+[<img align="left" alt="shripad pawar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shripad-pawar-b95852192/) [<img align="left" alt="shripad pawar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shripad_chandrashekhar_pawar/) [<img align="left" alt="shripad pawar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShripadCPawar)
+<br>
 
  <p align="center"> <img src="Pikachu.png" alt="pic" width="400" height="300"/> </p>
