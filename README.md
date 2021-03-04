@@ -12,6 +12,9 @@
 <br/> <b>I'm passionate about <b>Andriod App Development, Machine Learning, And Data Science<b/>.
 <br/>
 <br> - 🌱 I’m currently learning and working on <b>Andriod App Develpoment 📲.</br>
+<br> - 📖 Open source contributor</br>
+<br> - 💬 Ask me about **Java, Javascript, Andriod**</br>
+<br> - 📫 How to reach me **shripadcpawar@gmail.com**</br>
 <br> - 🥅 2021 Goals : Contribute more to Open Source projects.👽💻</br>
 <br> - ⚡ Fun fact : I love to play guitar But I Don't Know How 😜😄</br>
  
