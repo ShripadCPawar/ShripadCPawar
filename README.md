@@ -46,7 +46,7 @@
 
 ## More About Me:
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShripadCPawar&layout=compact&langs_count=8" alt="ShripadCPawar stats" /></p>
 
 <a href="https://github.com/ShripadCPawar/github-readme-stats">
  
