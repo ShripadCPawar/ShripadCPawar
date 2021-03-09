@@ -1,7 +1,7 @@
 <p align="center"> <img src="hello.gif" alt="hello" /> </p>
 <h1 align="center">Hola 👋, I'm Shripad Pawar ⭐</h1>
 
-<p align="center"> <img src="Android.gif" alt="android" width="100" height="120" /> </p>
+<p align="center"> <img src="tenor.gif" alt="android" width="100" height="120" /> </p>
 <h3 align="center">A Passionate Andriod Developer from India 👦🏻💻</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ShripadCPawar.ShripadCPawar)
