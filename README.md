@@ -1,6 +1,6 @@
 <p align="center"> <img src="hello.gif" alt="hello" /> </p>
 <h1 align="center">Hola 👋, I'm Shripad Pawar ⭐</h1>
-<h3 align="center">A Passionate Java Developer from India 👦🏻💻</h3>
+<h3 align="center">A Passionate Andriod Developer from India 👦🏻💻</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ShripadCPawar.ShripadCPawar)
 
