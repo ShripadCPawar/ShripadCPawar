@@ -13,7 +13,7 @@
  Savitribai Phule Pune University. </i> <br/><b> <br>SE CGPA - 7.82 <br/>
 <br/> <b>I'm passionate about <b>Andriod App Development, Machine Learning, And Data Science<b/>.
 <br/>
-<br> - 🌱 I’m currently learning and working on <b>Andriod App Develpoment 📲.</br>
+<br> - 🌱 I’m currently learning and working on <b>Andriod App Develpoment 📲</br>
 <br> - 📖 Open source contributor</br>
 <br> - 💬 Ask me about **Java, Javascript, Andriod**</br>
 <br> - 📫 How to reach me **shripadcpawar@gmail.com**</br>
