@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, I'm Shripad Pawar ⭐</h1>
 
 <p align="center"> <img src="Hey.gif" alt="android"  /> </p>
-<h3 align="center">A Passionate Andriod App Developer From India 👦🏻💻</h3>
+<h3 align="center">I am Learning Android App Development 👦🏻💻</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ShripadCPawar.ShripadCPawar)
 
@@ -13,9 +13,9 @@
  Savitribai Phule Pune University. </i> <br/><b> <br>SE CGPA - 7.82 <br/>
 <br/> <b>I'm passionate about <b>Andriod App Development, Machine Learning, And Data Science<b/>.
 <br/>
-<br> - 🌱 I’m currently learning and working on <b>Andriod App Develpoment 📲</br>
+<br> - 🌱 I’m currently learning and working on <b>Android App Develpoment 📲</br>
 <br> - 📖 Open source contributor</br>
-<br> - 💬 Ask me about **Java, Javascript, Andriod**</br>
+<br> - 💬 Ask me about **Java, Android**</br>
 <br> - 📫 How to reach me **shripadcpawar@gmail.com**</br>
 <br> - 🥅 2021 Goals : Contribute more to Open Source projects.👽💻</br>
 <br> - ⚡ Fun fact : I love to play guitar But I Don't Know How 😜😄</br>
