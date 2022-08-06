@@ -17,7 +17,7 @@
 <br> - 📖 Open source contributor</br>
 <br> - 💬 Ask me about **Java, Android**</br>
 <br> - 📫 How to reach me **shripadcpawar@gmail.com**</br>
-<br> - 🥅 2021 Goals : Contribute more to Open Source projects.👽💻</br>
+<br> - 🥅 2022 Goals : Contribute more to Open Source projects.👽💻</br>
 <br> - ⚡ Fun fact : I love to play guitar But I Don't Know How 😜😄</br>
  
 
